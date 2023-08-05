@@ -1,95 +1,94 @@
 {
   "products": [
     {
-      "name": "Pikachu Plush Toy",
-      "price": 19.99,
-      "description": "Cute Pikachu plush toy for Pokemon fans.",
-      "image_url": "https://example.com/images/pikachu_plush.jpg"
+      "name": "Fender Stratocaster",
+      "price": 999.99,
+      "description": "The iconic Fender Stratocaster electric guitar.",
+      "image_url": "https://example.com/images/fender_stratocaster.jpg"
     },
     {
-      "name": "Charizard T-shirt",
-      "price": 24.99,
-      "description": "Awesome Charizard t-shirt for Pokemon trainers.",
-      "image_url": "https://example.com/images/charizard_tshirt.jpg"
+      "name": "Gibson Les Paul",
+      "price": 1299.99,
+      "description": "Classic Gibson Les Paul electric guitar.",
+      "image_url": "https://example.com/images/gibson_les_paul.jpg"
     },
     {
-      "name": "Eevee Keychain",
-      "price": 9.99,
-      "description": "Adorable Eevee keychain to carry with you.",
-      "image_url": "https://example.com/images/eevee_keychain.jpg"
+      "name": "Taylor 214ce",
+      "price": 899.99,
+      "description": "Taylor 214ce acoustic guitar with a solid Sitka spruce top.",
+      "image_url": "https://example.com/images/taylor_214ce.jpg"
     },
     {
-      "name": "Poké Ball Mug",
-      "price": 14.99,
-      "description": "A mug shaped like a Poké Ball for your morning coffee.",
-      "image_url": "https://example.com/images/pokeball_mug.jpg"
+      "name": "Martin D-28",
+      "price": 1999.99,
+      "description": "The legendary Martin D-28 acoustic guitar.",
+      "image_url": "https://example.com/images/martin_d28.jpg"
     },
     {
-      "name": "Squirtle Backpack",
-      "price": 34.99,
-      "description": "Stylish Squirtle backpack for school or travel.",
-      "image_url": "https://example.com/images/squirtle_backpack.jpg"
+      "name": "Ibanez RG550",
+      "price": 899.99,
+      "description": "Fast and versatile Ibanez RG550 electric guitar.",
+      "image_url": "https://example.com/images/ibanez_rg550.jpg"
     },
     {
-      "name": "Jigglypuff Phone Case",
-      "price": 12.99,
-      "description": "Cute Jigglypuff phone case for various phone models.",
-      "image_url": "https://example.com/images/jigglypuff_phone_case.jpg"
+      "name": "Epiphone Casino",
+      "price": 649.99,
+      "description": "The classic Epiphone Casino semi-hollowbody electric guitar.",
+      "image_url": "https://example.com/images/epiphone_casino.jpg"
     },
     {
-      "name": "Bulbasaur Plant Pot",
-      "price": 16.99,
-      "description": "Decorate your home with this adorable Bulbasaur plant pot.",
-      "image_url": "https://example.com/images/bulbasaur_plant_pot.jpg"
+      "name": "PRS SE Custom 24",
+      "price": 799.99,
+      "description": "PRS SE Custom 24 electric guitar with a maple top.",
+      "image_url": "https://example.com/images/prs_se_custom_24.jpg"
     },
     {
-      "name": "Meowth Coin Bank",
-      "price": 22.99,
-      "description": "Save your coins with the help of Meowth coin bank.",
-      "image_url": "https://example.com/images/meowth_coin_bank.jpg"
+      "name": "Yamaha FG800",
+      "price": 199.99,
+      "description": "Yamaha FG800 acoustic guitar with a solid spruce top.",
+      "image_url": "https://example.com/images/yamaha_fg800.jpg"
     },
     {
-      "name": "Psyduck Plush Pillow",
-      "price": 29.99,
-      "description": "Relax with this soft and cuddly Psyduck plush pillow.",
-      "image_url": "https://example.com/images/psyduck_plush_pillow.jpg"
+      "name": "Gretsch G5420T",
+      "price": 849.99,
+      "description": "Gretsch G5420T hollow body electric guitar.",
+      "image_url": "https://example.com/images/gretsch_g5420t.jpg"
     },
     {
-      "name": "Gengar Hoodie",
-      "price": 28.99,
-      "description": "Stay warm and stylish with this Gengar-themed hoodie.",
-      "image_url": "https://example.com/images/gengar_hoodie.jpg"
+      "name": "Schecter Hellraiser C-1",
+      "price": 1099.99,
+      "description": "Schecter Hellraiser C-1 electric guitar with active pickups.",
+      "image_url": "https://example.com/images/schecter_hellraiser_c1.jpg"
     },
     {
-      "name": "Snorlax Onesie",
-      "price": 39.99,
-      "description": "Lounge around in this cozy Snorlax onesie.",
-      "image_url": "https://example.com/images/snorlax_onesie.jpg"
+      "name": "Epiphone Hummingbird",
+      "price": 499.99,
+      "description": "Epiphone Hummingbird acoustic guitar with a solid spruce top.",
+      "image_url": "https://example.com/images/epiphone_hummingbird.jpg"
     },
     {
-      "name": "Vaporeon Water Bottle",
-      "price": 17.99,
-      "description": "Stay hydrated with this Vaporeon water bottle.",
-      "image_url": "https://example.com/images/vaporeon_water_bottle.jpg"
+      "name": "Gibson SG Standard",
+      "price": 1499.99,
+      "description": "Gibson SG Standard electric guitar with dual humbuckers.",
+      "image_url": "https://example.com/images/gibson_sg_standard.jpg"
     },
     {
-      "name": "Mewtwo Action Figure",
-      "price": 21.99,
-      "description": "Add the powerful Mewtwo to your Pokemon action figure collection.",
-      "image_url": "https://example.com/images/mewtwo_action_figure.jpg"
+      "name": "Squier Classic Vibe '60s Jazzmaster",
+      "price": 399.99,
+      "description": "Squier Classic Vibe '60s Jazzmaster electric guitar.",
+      "image_url": "https://example.com/images/squier_jazzmaster.jpg"
     },
     {
-      "name": "Dragonite Plush",
-      "price": 26.99,
-      "description": "Hug this fluffy Dragonite plush tightly.",
-      "image_url": "https://example.com/images/dragonite_plush.jpg"
+      "name": "Martin HD-28",
+      "price": 2499.99,
+      "description": "Martin HD-28 acoustic guitar with herringbone binding.",
+      "image_url": "https://example.com/images/martin_hd28.jpg"
     },
     {
-      "name": "Eeveelutions Poster",
-      "price": 8.99,
-      "description": "Decorate your wall with a colorful poster featuring all Eeveelutions.",
-      "image_url": "https://example.com/images/eeveelutions_poster.jpg"
+      "name": "Gibson ES-335",
+      "price": 2499.99,
+      "description": "Gibson ES-335 semi-hollowbody electric guitar.",
+      "image_url": "https://example.com/images/gibson_es335.jpg"
     }
   ]
 }
-
