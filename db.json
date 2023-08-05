@@ -1,60 +1,70 @@
 {
   "plantas": [
     {
+      "id": 1,
       "nombre": "Rosa",
       "tipo": "Flor",
       "imagen": "https://ejemplo.com/rosa.jpg",
       "descripcion": "Bella flor de jardín."
     },
     {
+      "id": 2,
       "nombre": "Lavanda",
       "tipo": "Hierba",
       "imagen": "https://ejemplo.com/lavanda.jpg",
       "descripcion": "Aroma relajante y floral."
     },
     {
+      "id": 3,
       "nombre": "Palmera",
       "tipo": "Árbol",
       "imagen": "https://ejemplo.com/palmera.jpg",
       "descripcion": "Icono tropical."
     },
     {
+      "id": 4,
       "nombre": "Tulipán",
       "tipo": "Flor",
       "imagen": "https://ejemplo.com/tulipan.jpg",
       "descripcion": "Flores coloridas y elegantes."
     },
     {
+      "id": 5,
       "nombre": "Helecho",
       "tipo": "Planta de Interior",
       "imagen": "https://ejemplo.com/helecho.jpg",
       "descripcion": "Verdor en interiores."
     },
     {
+      "id": 6,
       "nombre": "Tomate",
       "tipo": "Hortaliza",
       "imagen": "https://ejemplo.com/tomate.jpg",
       "descripcion": "Delicioso y versátil."
     },
     {
+      "id": 7,
       "nombre": "Aloe Vera",
       "tipo": "Succulenta",
       "imagen": "https://ejemplo.com/aloe.jpg",
       "descripcion": "Planta medicinal y decorativa."
     },
     {
+      "id": 8,
       "nombre": "Pino",
       "tipo": "Árbol",
       "imagen": "https://ejemplo.com/pino.jpg",
       "descripcion": "Símbolo de naturaleza."
     },
     {
+      "id": 9,
       "nombre": "Caléndula",
       "tipo": "Flor",
       "imagen": "https://ejemplo.com/calendula.jpg",
       "descripcion": "Brillantes y alegres."
     },
     {
+      "id": 10,
       "nombre": "Bambú",
       "tipo": "Planta de Interior",
       "imagen": "https://ejemplo.com/bambu.jpg",
