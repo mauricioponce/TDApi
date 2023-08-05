@@ -1,94 +1,64 @@
 {
-  "products": [
+  "plantas": [
     {
-      "name": "Fender Stratocaster",
-      "price": 999.99,
-      "description": "The iconic Fender Stratocaster electric guitar.",
-      "image_url": "https://example.com/images/fender_stratocaster.jpg"
+      "nombre": "Rosa",
+      "tipo": "Flor",
+      "imagen": "https://ejemplo.com/rosa.jpg",
+      "descripcion": "Bella flor de jardín."
     },
     {
-      "name": "Gibson Les Paul",
-      "price": 1299.99,
-      "description": "Classic Gibson Les Paul electric guitar.",
-      "image_url": "https://example.com/images/gibson_les_paul.jpg"
+      "nombre": "Lavanda",
+      "tipo": "Hierba",
+      "imagen": "https://ejemplo.com/lavanda.jpg",
+      "descripcion": "Aroma relajante y floral."
     },
     {
-      "name": "Taylor 214ce",
-      "price": 899.99,
-      "description": "Taylor 214ce acoustic guitar with a solid Sitka spruce top.",
-      "image_url": "https://example.com/images/taylor_214ce.jpg"
+      "nombre": "Palmera",
+      "tipo": "Árbol",
+      "imagen": "https://ejemplo.com/palmera.jpg",
+      "descripcion": "Icono tropical."
     },
     {
-      "name": "Martin D-28",
-      "price": 1999.99,
-      "description": "The legendary Martin D-28 acoustic guitar.",
-      "image_url": "https://example.com/images/martin_d28.jpg"
+      "nombre": "Tulipán",
+      "tipo": "Flor",
+      "imagen": "https://ejemplo.com/tulipan.jpg",
+      "descripcion": "Flores coloridas y elegantes."
     },
     {
-      "name": "Ibanez RG550",
-      "price": 899.99,
-      "description": "Fast and versatile Ibanez RG550 electric guitar.",
-      "image_url": "https://example.com/images/ibanez_rg550.jpg"
+      "nombre": "Helecho",
+      "tipo": "Planta de Interior",
+      "imagen": "https://ejemplo.com/helecho.jpg",
+      "descripcion": "Verdor en interiores."
     },
     {
-      "name": "Epiphone Casino",
-      "price": 649.99,
-      "description": "The classic Epiphone Casino semi-hollowbody electric guitar.",
-      "image_url": "https://example.com/images/epiphone_casino.jpg"
+      "nombre": "Tomate",
+      "tipo": "Hortaliza",
+      "imagen": "https://ejemplo.com/tomate.jpg",
+      "descripcion": "Delicioso y versátil."
     },
     {
-      "name": "PRS SE Custom 24",
-      "price": 799.99,
-      "description": "PRS SE Custom 24 electric guitar with a maple top.",
-      "image_url": "https://example.com/images/prs_se_custom_24.jpg"
+      "nombre": "Aloe Vera",
+      "tipo": "Succulenta",
+      "imagen": "https://ejemplo.com/aloe.jpg",
+      "descripcion": "Planta medicinal y decorativa."
     },
     {
-      "name": "Yamaha FG800",
-      "price": 199.99,
-      "description": "Yamaha FG800 acoustic guitar with a solid spruce top.",
-      "image_url": "https://example.com/images/yamaha_fg800.jpg"
+      "nombre": "Pino",
+      "tipo": "Árbol",
+      "imagen": "https://ejemplo.com/pino.jpg",
+      "descripcion": "Símbolo de naturaleza."
     },
     {
-      "name": "Gretsch G5420T",
-      "price": 849.99,
-      "description": "Gretsch G5420T hollow body electric guitar.",
-      "image_url": "https://example.com/images/gretsch_g5420t.jpg"
+      "nombre": "Caléndula",
+      "tipo": "Flor",
+      "imagen": "https://ejemplo.com/calendula.jpg",
+      "descripcion": "Brillantes y alegres."
     },
     {
-      "name": "Schecter Hellraiser C-1",
-      "price": 1099.99,
-      "description": "Schecter Hellraiser C-1 electric guitar with active pickups.",
-      "image_url": "https://example.com/images/schecter_hellraiser_c1.jpg"
-    },
-    {
-      "name": "Epiphone Hummingbird",
-      "price": 499.99,
-      "description": "Epiphone Hummingbird acoustic guitar with a solid spruce top.",
-      "image_url": "https://example.com/images/epiphone_hummingbird.jpg"
-    },
-    {
-      "name": "Gibson SG Standard",
-      "price": 1499.99,
-      "description": "Gibson SG Standard electric guitar with dual humbuckers.",
-      "image_url": "https://example.com/images/gibson_sg_standard.jpg"
-    },
-    {
-      "name": "Squier Classic Vibe '60s Jazzmaster",
-      "price": 399.99,
-      "description": "Squier Classic Vibe '60s Jazzmaster electric guitar.",
-      "image_url": "https://example.com/images/squier_jazzmaster.jpg"
-    },
-    {
-      "name": "Martin HD-28",
-      "price": 2499.99,
-      "description": "Martin HD-28 acoustic guitar with herringbone binding.",
-      "image_url": "https://example.com/images/martin_hd28.jpg"
-    },
-    {
-      "name": "Gibson ES-335",
-      "price": 2499.99,
-      "description": "Gibson ES-335 semi-hollowbody electric guitar.",
-      "image_url": "https://example.com/images/gibson_es335.jpg"
+      "nombre": "Bambú",
+      "tipo": "Planta de Interior",
+      "imagen": "https://ejemplo.com/bambu.jpg",
+      "descripcion": "Elegante y zen."
     }
   ]
 }
